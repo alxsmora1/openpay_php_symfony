@@ -20,6 +20,9 @@
     "nikic/php-parser": {
         "version": "v4.10.4"
     },
+    "openpay/sdk": {
+        "version": "2.1.1"
+    },
     "psr/cache": {
         "version": "1.0.1"
     },
